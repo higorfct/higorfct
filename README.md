@@ -32,6 +32,5 @@ Busco oportunidades em que eu possa:
 - Transformar dados em decisões mais inteligentes e estratégicas
 
 ---
-
-📫 Vamos nos conectar?  
-Me adicione no [LinkedIn](https://www.linkedin.com/in/seu-username-aqui) ou entre em contato para colaborações e oportunidades.
+📫 **Contato**  
+Linkedin: https://www.linkedin.com/in/higor-caetano-049521136/
