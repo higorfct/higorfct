@@ -9,7 +9,8 @@ Economista pela Universidade Vila Velha (UVV), atualmente em transição para a 
 - Análise e Visualização de Dados: Tableau, Power BI, Excel, Streamlit  
 - Modelagem e Estatística:  
   - Machine Learning  
-  - Deep Learning  
+  - Deep Learning
+  - MLOps
   - Inteligência Artificial Generativa  
   - Séries Temporais  
   - Inferência Causal  
