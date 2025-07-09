@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Higor Roberto Coutinho Caetano
 
-Economista pela Universidade Vila Velha (UVV), atualmente em transição para a área de Ciência de Dados. Meu objetivo é conquistar minha primeira oportunidade profissional na área, aplicando análises quantitativas e técnicas avançadas para resolver problemas reais e gerar valor para negócios e organizações.
+Economista pela Universidade Vila Velha (UVV) e Cientista de Dados, visando sempre aplicar soluções analíticas e técnicas avançadas para resolver problemas reais e gerar valor para negócios e organizações.
 
 ## 🚀 Habilidades Técnicas
 
