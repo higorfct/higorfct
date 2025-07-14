@@ -15,6 +15,7 @@ Economista pela Universidade Vila Velha (UVV) e Cientista de Dados, visando semp
   - Séries Temporais  
   - Inferência Causal  
   - Econometria
+  - Versionamento de Código: Git
 
 ## 🧠 Soft Skills
 
