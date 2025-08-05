@@ -36,3 +36,4 @@ Busco oportunidades em que eu possa:
 ---
 📫 **Contato**  
 Linkedin: https://www.linkedin.com/in/higor-caetano-049521136/
+Medium (com projetos em Tableau, Excel e SQL): https://medium.com/@higorfct
