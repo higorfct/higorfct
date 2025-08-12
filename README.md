@@ -31,7 +31,7 @@ Busco oportunidades em que eu possa:
 
 - Aprender continuamente  
 - Contribuir com projetos relevantes  
-- Transformar dados em decisões mais inteligentes e estratégicas
+- Transformar dados em decisões inteligentes e estratégicas
 
 ---
 📫 **Contato**  
