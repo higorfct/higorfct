@@ -1,40 +1,40 @@
-# 👋 Olá, eu sou Higor Roberto Coutinho Caetano
+# 👋 Hello, I'm Higor Roberto Coutinho Caetano
 
-Economista pela Universidade Vila Velha (UVV) e Cientista de Dados, visando sempre aplicar soluções analíticas e técnicas avançadas para resolver problemas reais e gerar valor para negócios e organizações.
+Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), always aiming to apply analytical solutions and advanced techniques to solve real-world problems and generate value for businesses and organizations.
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-- Linguagens: Python, R, SQL  
-- Big Data & Nuvem: PySpark, AWS  
-- Análise e Visualização de Dados: Tableau, Power BI, Excel, Streamlit  
-- Modelagem e Estatística:  
+- Languages: Python, R, SQL  
+- Big Data & Cloud: PySpark, AWS  
+- Data Analysis & Visualization: Tableau, Power BI, Excel, Streamlit  
+- Modeling and Statistics:  
   - Machine Learning  
-  - Deep Learning
-  - MLOps
-  - Inteligência Artificial Generativa  
-  - Séries Temporais  
-  - Inferência Causal  
-  - Econometria
-  - Versionamento de Código: Git
+  - Deep Learning  
+  - MLOps  
+  - Generative Artificial Intelligence  
+  - Time Series  
+  - Causal Inference  
+  - Econometrics  
+  - Code Versioning: Git
 
 ## 🧠 Soft Skills
 
-- Proatividade e curiosidade infindável  
-- Pensamento crítico e adaptabilidade  
-- Resolução de problemas  
-- Trabalho em equipe  
-- Familiaridade com metodologias ágeis
+- Proactivity and endless curiosity  
+- Critical thinking and adaptability  
+- Problem-solving  
+- Teamwork  
+- Familiarity with agile methodologies
 
-## 🎯 Objetivo Profissional
+## 🎯 Professional Objective
 
-Busco oportunidades em que eu possa:
+I am seeking opportunities where I can:
 
-- Aprender continuamente  
-- Contribuir com projetos relevantes  
-- Transformar dados em decisões inteligentes e estratégicas
+- Continuously learn  
+- Contribute to relevant projects  
+- Transform data into intelligent and strategic decisions
 
 ---
-📫 **Contato**  
+📫 **Contact**  
 - Linkedin: https://www.linkedin.com/in/higor-caetano-049521136/
 
-- Medium (com projetos em Tableau, Excel e SQL): https://medium.com/@higorfct
+- Medium (with projects in Tableau, Excel, and SQL): https://medium.com/@higorfct
