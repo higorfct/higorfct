@@ -10,7 +10,9 @@ Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), alway
 - Modeling and Statistics:  
   - Machine Learning  
   - Deep Learning  
-  - MLOps  
+  - MLOps
+  - Airflow
+  - Docker
   - Generative Artificial Intelligence  
   - Time Series  
   - Causal Inference  
