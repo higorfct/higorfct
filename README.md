@@ -5,7 +5,7 @@ Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), alway
 ## 🚀 Technical Skills
 
 - Languages: Python, R, SQL  
-- Big Data & Cloud: PySpark, AWS  
+- Big Data & Cloud: PySpark, AWS, Databricks
 - Data Analysis & Visualization: Tableau, Power BI, Excel, Streamlit  
 - Modeling and Statistics:  
   - Machine Learning  
