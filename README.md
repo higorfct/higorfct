@@ -2,12 +2,30 @@
 
 Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), always aiming to apply analytical solutions and advanced techniques to solve real-world problems and generate value for businesses and organizations.
 
-## 📑 Table of Contents
-- [Machine Learning / Deep Learning](#-machine-learning--deep-learning)
-- [Gen AI](#-gen-ai)
-- [Causal Inference](#-causal-inference)
-  
 ---
+
+
+
+## 🤖 Machine Learning / Deep Learning projects
+Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.  
+*(Links to projects can be added here in the future.)*
+
+---
+
+## 🧬 Gen AI projects
+Applications of generative AI, fine-tuning, and retrieval-augmented generation (RAG) to solve real-world business challenges.  
+*(Links to projects can be added here in the future.)*
+
+---
+
+## 📊 Causal Inference projects
+Causal analysis, econometrics, and statistical methods to identify cause-effect relationships and support strategic decision-making.  
+*(Links to projects can be added here in the future.)*
+
+---
+
+
+
 
 ## 🚀 Technical Skills
 
@@ -25,24 +43,6 @@ Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), alway
   - Causal Inference  
   - Econometrics  
   - Code Versioning: Git
-
----
-
-## 🤖 Machine Learning / Deep Learning
-Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.  
-*(Links to projects can be added here in the future.)*
-
----
-
-## 🧬 Gen AI
-Applications of generative AI, fine-tuning, and retrieval-augmented generation (RAG) to solve real-world business challenges.  
-*(Links to projects can be added here in the future.)*
-
----
-
-## 📊 Causal Inference
-Causal analysis, econometrics, and statistical methods to identify cause-effect relationships and support strategic decision-making.  
-*(Links to projects can be added here in the future.)*
 
 ---
 
