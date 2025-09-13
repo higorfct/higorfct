@@ -8,19 +8,55 @@ Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), alway
 
 ## 🤖 Machine Learning / Deep Learning projects
 Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.  
-*(Links to projects can be added here in the future.)*
+
+https://github.com/higorfct/Churn-Analysis
+
+https://github.com/higorfct/Recommender-System
+
+https://github.com/higorfct/Campaign-Optmization-
+
+https://github.com/higorfct/Customer-Segmentation-
+
+https://github.com/higorfct/Time-Series-Benchmark-Project
+
+https://github.com/higorfct/Recommender-System-with-PySpark
+
+https://github.com/higorfct/Fraud-Detection-.
+
+https://github.com/higorfct?tab=repositories
+
+https://github.com/higorfct/Logistics-Web-Application
+
+
+
 
 ---
 
 ## 🧬 Gen AI projects
 Applications of generative AI, fine-tuning, and retrieval-augmented generation (RAG) to solve real-world business challenges.  
-*(Links to projects can be added here in the future.)*
+
+https://github.com/higorfct/AI-Multi-Agents-
+
+https://github.com/higorfct/Specialized-chabot-with-RAG-and-LangChain/blob/main/README.md
 
 ---
 
 ## 📊 Causal Inference projects
 Causal analysis, econometrics, and statistical methods to identify cause-effect relationships and support strategic decision-making.  
-*(Links to projects can be added here in the future.)*
+
+https://github.com/higorfct/Causal-Inference-with-RDD/tree/main
+
+https://github.com/higorfct/Delinquency-Policy-Evaluation-Project
+
+
+## ⚙️ Automation & Web Scraping
+- Extracting structured/unstructured data from the web  
+- Automating repetitive desktop tasks  
+- Building ETL processes for analysis and reporting
+
+  https://github.com/higorfct/Sales-Report-Automation
+  
+  https://github.com/higorfct/Webscrapping
 
 ---
 
