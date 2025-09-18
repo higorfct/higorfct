@@ -1,104 +1,84 @@
 # 👋 Hello, I'm Higor Roberto Coutinho Caetano
 
-Data Scientist with a Bacherlor's degree from Vila Velha University (UVV), always aiming to apply analytical solutions and advanced techniques to solve real-world problems and generate value for businesses and organizations.
+Data Scientist with a Bachelor's degree from Vila Velha University (UVV), always aiming to apply analytical solutions and advanced techniques to solve real-world problems and generate value for businesses and organizations.
 
 ---
 
+## 🤖 Machine Learning / Deep Learning Projects
+Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.
 
-
-## 🤖 Machine Learning / Deep Learning projects
-Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.  
-
-https://github.com/higorfct/Churn-Analysis
-
-https://github.com/higorfct/Recommender-System
-
-https://github.com/higorfct/Campaign-Optmization-
-
-https://github.com/higorfct/Customer-Segmentation-
-
-https://github.com/higorfct/Time-Series-Benchmark-Project
-
-https://github.com/higorfct/Recommender-System-with-PySpark
-
-https://github.com/higorfct/Fraud-Detection-.
-
-https://github.com/higorfct?tab=repositories
-
-https://github.com/higorfct/Logistics-Web-Application
-
-
-
+- [Churn Analysis](https://github.com/higorfct/Churn-Analysis)  
+- [Recommender System](https://github.com/higorfct/Recommender-System)  
+- [Campaign Optimization](https://github.com/higorfct/Campaign-Optmization-)  
+- [Customer Segmentation](https://github.com/higorfct/Customer-Segmentation-)  
+- [Time Series Benchmark Project](https://github.com/higorfct/Time-Series-Benchmark-Project)  
+- [Recommender System with PySpark](https://github.com/higorfct/Recommender-System-with-PySpark)  
+- [Fraud Detection](https://github.com/higorfct/Fraud-Detection-.)  
+- [All Repositories](https://github.com/higorfct?tab=repositories)  
+- [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)  
 
 ---
 
-## 🧬 Gen AI projects
-Applications of generative AI, fine-tuning, and retrieval-augmented generation (RAG) to solve real-world business challenges.  
+## 🧬 Gen AI Projects
+Applications of generative AI, fine-tuning, and retrieval-augmented generation (RAG) to solve real-world business challenges.
 
-https://github.com/higorfct/AI-Multi-Agents-
-
-https://github.com/higorfct/Specialized-chabot-with-RAG-and-LangChain/blob/main/README.md
+- [AI Multi-Agents](https://github.com/higorfct/AI-Multi-Agents-)  
+- [Specialized Chatbot with RAG and LangChain](https://github.com/higorfct/Specialized-chabot-with-RAG-and-LangChain/blob/main/README.md)  
 
 ---
 
-## 📊 Causal Inference projects
-Causal analysis, econometrics, and statistical methods to identify cause-effect relationships and support strategic decision-making.  
+## 📊 Causal Inference Projects
+Causal analysis, econometrics, and statistical methods to identify cause-effect relationships and support strategic decision-making.
 
-https://github.com/higorfct/Causal-Inference-with-RDD/tree/main
+- [Causal Inference with RDD](https://github.com/higorfct/Causal-Inference-with-RDD/tree/main)  
+- [Delinquency Policy Evaluation Project](https://github.com/higorfct/Delinquency-Policy-Evaluation-Project)  
 
-https://github.com/higorfct/Delinquency-Policy-Evaluation-Project
-
+---
 
 ## ⚙️ Automation & Web Scraping
 - Extracting structured/unstructured data from the web  
 - Automating repetitive desktop tasks  
 - Building ETL processes for analysis and reporting
 
-  https://github.com/higorfct/Sales-Report-Automation
-  
-  https://github.com/higorfct/Webscrapping
+- [Sales Report Automation](https://github.com/higorfct/Sales-Report-Automation)  
+- [Web Scraping Projects](https://github.com/higorfct/Webscrapping)  
+- [Automation with PyAutoGUI](https://github.com/higorfct/Automation-with-PyAutoGui)  
 
 ---
 
-
-
-
 ## 🚀 Technical Skills
-
 - Languages: Python, R, SQL  
-- Big Data & Cloud: PySpark, AWS, Databricks
+- Big Data & Cloud: PySpark, AWS, Databricks  
 - Data Analysis & Visualization: Tableau, Power BI, Excel, Streamlit  
 - Modeling and Statistics:  
   - Machine Learning  
   - Deep Learning  
-  - MLOps
-  - Airflow
-  - Docker
+  - MLOps  
+  - Airflow  
+  - Docker  
   - Generative Artificial Intelligence  
   - Time Series  
   - Causal Inference  
   - Econometrics  
-  - Code Versioning: Git
+- Code Versioning: Git  
 
 ---
 
 ## 🧠 Soft Skills
-
 - Proactivity and endless curiosity  
 - Critical thinking and adaptability  
 - Problem-solving  
 - Teamwork  
-- Familiarity with agile methodologies
+- Familiarity with agile methodologies  
 
 ---
 
 ## 🎯 Professional Objective
-
 I am seeking opportunities where I can:
 
 - Continuously learn  
 - Contribute to relevant projects  
-- Transform data into intelligent and strategic decisions
+- Transform data into intelligent and strategic decisions  
 
 ---
 
