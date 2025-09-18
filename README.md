@@ -15,7 +15,8 @@ Projects and studies focused on supervised and unsupervised learning, neural net
 - [Recommender System with PySpark](https://github.com/higorfct/Recommender-System-with-PySpark)  
 - [Fraud Detection](https://github.com/higorfct/Fraud-Detection-.)  
 - [All Repositories](https://github.com/higorfct?tab=repositories)  
-- [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)  
+- [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)
+- [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)
 
 ---
 
