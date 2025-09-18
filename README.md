@@ -4,6 +4,13 @@ Data Scientist with a Bachelor's degree from Vila Velha University (UVV), always
 
 ---
 
+## 📈 Exploratory Data Analysis (EDA)
+Exploratory analysis, focusing on identifying patterns, correlations and insights.
+
+- [EDA with Power BI and R](https://github.com/higorfct/EDA-with-Power-BI)
+
+---
+
 ## 🤖 Machine Learning / Deep Learning Projects
 Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.
 
@@ -61,6 +68,7 @@ Causal analysis, econometrics, and statistical methods to identify cause-effect 
   - Time Series  
   - Causal Inference  
   - Econometrics  
+  - Exploratory Data Analysis (EDA)  
 - Code Versioning: Git  
 
 ---
