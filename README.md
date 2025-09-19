@@ -43,7 +43,7 @@ Causal analysis, econometrics, and statistical methods to identify cause-effect 
 
 ---
 
-## ⚙️ Automation & Web Scraping
+## ⚙️ Automation & Web Scrapping
 - Extracting structured/unstructured data from the web  
 - Automating repetitive desktop tasks  
 - Building ETL processes for analysis and reporting
