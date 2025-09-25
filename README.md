@@ -61,7 +61,9 @@ Causal analysis, econometrics, and statistical methods to identify cause-effect 
 - Modeling and Statistics:  
   - Machine Learning  
   - Deep Learning  
-  - MLOps  
+  - MLOps
+  - CI/CD
+  - Pytest 
   - Airflow  
   - Docker  
   - Generative Artificial Intelligence  
