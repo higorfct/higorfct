@@ -20,8 +20,7 @@ Projects and studies focused on supervised and unsupervised learning, neural net
 - [Customer Segmentation](https://github.com/higorfct/Customer-Segmentation-)  
 - [Time Series Benchmark Project](https://github.com/higorfct/Time-Series-Benchmark-Project)  
 - [Recommender System with PySpark](https://github.com/higorfct/Recommender-System-with-PySpark)  
-- [Fraud Detection](https://github.com/higorfct/Fraud-Detection-.)  
-- [All Repositories](https://github.com/higorfct?tab=repositories)  
+- [Fraud Detection With Deep Learning](https://github.com/higorfct/Fraud-Detection-.)  
 - [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)
 - [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)
 
