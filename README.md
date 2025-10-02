@@ -22,7 +22,20 @@ Projects and studies focused on supervised and unsupervised learning, neural net
 - [Recommender System with PySpark](https://github.com/higorfct/Recommender-System-with-PySpark)  
 - [Fraud Detection With Deep Learning](https://github.com/higorfct/Fraud-Detection-.)  
 - [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)
-- [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)
+
+---
+
+## 🚀 MLOps & CI/CD Projects
+Implementation of end-to-end machine learning pipelines, automation of deployment processes, and integration of DevOps practices for data science projects.  
+
+**Key practices include:**  
+- **MLOps Pipelines**: Data preprocessing, model training, hyperparameter tuning, deployment, and monitoring.  
+- **CI/CD for ML**: GitHub Actions workflows for continuous integration, automated testing (Pytest), and continuous deployment.  
+- **Containerization**: Packaging ML applications with Docker for reproducibility and scalability.  
+
+**Projects:**  
+- [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)  
+- [CI/CD with GitHub Actions (Predictive Maintenance)](https://github.com/higorfct/Predictive-Maintenance)  
 
 ---
 
@@ -60,9 +73,9 @@ Causal analysis, econometrics, and statistical methods to identify cause-effect 
 - Modeling and Statistics:  
   - Machine Learning  
   - Deep Learning  
-  - MLOps
-  - CI/CD
-  - Pytest 
+  - MLOps  
+  - CI/CD  
+  - Pytest  
   - Airflow  
   - Docker  
   - Generative Artificial Intelligence  
@@ -94,4 +107,4 @@ I am seeking opportunities where I can:
 
 📫 **Contact**  
 - Linkedin: [Higor Caetano](https://www.linkedin.com/in/higor-caetano-049521136/)  
-- Medium (with projects in Tableau, Excel, and SQL): [@higorfct](https://medium.com/@higorfct)
+- Medium (with projects in Tableau, Excel, and SQL): [@higorfct](https://medium.com/@higorfct)  
