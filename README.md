@@ -14,6 +14,7 @@ Exploratory analysis, focusing on identifying patterns, correlations and insight
 ## 🤖 Machine Learning / Deep Learning Projects
 Projects and studies focused on supervised and unsupervised learning, neural networks, and advanced modeling techniques.
 
+- [Credit Risk Web Application](https://github.com/higorfct/Credit-Risk-Assessment-Project-)
 - [Churn Analysis](https://github.com/higorfct/Churn-Analysis)  
 - [Recommender System](https://github.com/higorfct/Recommender-System)  
 - [Campaign Optimization](https://github.com/higorfct/Campaign-Optmization-)  
