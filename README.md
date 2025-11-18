@@ -4,6 +4,22 @@ Data Scientist with a Bachelor's degree from Vila Velha University (UVV), always
 
 ---
 
+## 🚀 End-to-End & MLOps projects
+Implementation of end-to-end machine learning pipelines, automation of deployment processes, and integration of DevOps practices for data science projects.  
+
+**Key practices include:**  
+- **MLOps Pipelines**: Data preprocessing, model training, hyperparameter tuning, deployment, and monitoring.  
+- **CI/CD for ML**: GitHub Actions workflows for continuous integration, automated testing (Pytest), and continuous deployment.  
+- **Containerization**: Packaging ML applications with Docker for reproducibility and scalability.  
+
+**Projects:**  
+
+- [MLOps Customer Churn Project](https://github.com/higorfct/MLOps-Customer-Churn-Project)
+- [Credit Risk Web Application](https://github.com/higorfct/Credit-Risk-Assessment-Project-)
+- [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)
+
+---
+
 ## 📈 Exploratory Data Analysis (EDA)
 Exploratory analysis, focusing on identifying patterns, correlations and insights.
 
@@ -23,20 +39,6 @@ Projects and studies focused on supervised and unsupervised learning, neural net
 - [Recommender System with PySpark](https://github.com/higorfct/Recommender-System-with-PySpark)  
 - [Fraud Detection With Deep Learning](https://github.com/higorfct/Fraud-Detection-.)  
 - [Logistics Web Application](https://github.com/higorfct/Logistics-Web-Application)
-
----
-
-## 🚀 MLOps & CI/CD Projects
-Implementation of end-to-end machine learning pipelines, automation of deployment processes, and integration of DevOps practices for data science projects.  
-
-**Key practices include:**  
-- **MLOps Pipelines**: Data preprocessing, model training, hyperparameter tuning, deployment, and monitoring.  
-- **CI/CD for ML**: GitHub Actions workflows for continuous integration, automated testing (Pytest), and continuous deployment.  
-- **Containerization**: Packaging ML applications with Docker for reproducibility and scalability.  
-
-**Projects:**  
-- [MLOps with Naive Bayes](https://github.com/higorfct/MLOps-with-Naive-Bayes)  
-- [CI/CD with GitHub Actions (Predictive Maintenance)](https://github.com/higorfct/Predictive-Maintenance)  
 
 ---
 
